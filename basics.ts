@@ -12,6 +12,7 @@ function addnum(
     }
   };
   
+
   const number1 = 78;
   const number2 = 56;
   const printResult = false;
