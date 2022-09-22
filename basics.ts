@@ -11,7 +11,6 @@ function addnum(
       return result;
     }
   };
-  
 
   const number1 = 78;
   const number2 = 56;
