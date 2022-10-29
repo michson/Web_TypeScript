@@ -6,6 +6,7 @@ var person = {
     role: [2, 'Author']
 };
 
+
 person.role.push(3, 'Adeshina');
 console.log(person);
 console.log(person.name);
